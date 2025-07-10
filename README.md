@@ -1,5 +1,5 @@
 # 🎮 Snake Game (C++ Console Project)
-
+ASSAlAMUALAIKUM 
 Welcome to the classic *Snake Game, rebuilt with love using **C++* for the Windows terminal!  
 This version includes smooth gameplay, sound effects, colorful visuals, multiple difficulty levels, and bonus/poison foods — all inside your console window.
 
@@ -42,4 +42,4 @@ or
 Navigate to the folder where snake.cpp is located.
 
 ```bash
-cd "D:\SPL Project"
+cd Start-Process "C:\Users\HP\Documents\snake game spl project\SnakeGame\bin\Debug\SnakeGame.exe"
