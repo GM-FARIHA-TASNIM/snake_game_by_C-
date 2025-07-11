@@ -3,6 +3,8 @@ ASSAlAMUALAIKUM
 Welcome to the classic *Snake Game, rebuilt with love using **C++* for the Windows terminal!  
 This version includes smooth gameplay, sound effects, colorful visuals, multiple difficulty levels, and bonus/poison foods — all inside your console window.
 
+PLAY GAME : https://poetic-frangipane-453747.netlify.app/
+
 ---
 
 ##  Features
